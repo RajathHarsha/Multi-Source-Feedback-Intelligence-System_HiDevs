@@ -12,7 +12,7 @@ requests==2.31.0
 
 # Sentiment Analysis
 transformers==4.37.2
-torch==2.1.2
+torch
 tokenizers==0.15.1
 
 # Dashboard
