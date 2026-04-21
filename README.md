@@ -1,3 +1,4 @@
+ HEAD
 # 📊 Multi-Source Feedback Intelligence System
 
 <p align="center">
@@ -652,3 +653,14 @@ docker rmi feedback-intelligence
 
 
 
+
+# Multi-Source Feedback Intelligence System
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
+267df3a2a6a5d25a2d5502d550659e13327c91f9
